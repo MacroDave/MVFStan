@@ -12,7 +12,7 @@ rm(list = ls())
   path = c("bin", "gcc-4.6.3/bin")
 )
 
-Quandl.api_key("c8j3mjrA43ToLv5yKYnv")
+Quandl.api_key("ZZZZZZZZZ")
 
 #real gdp millions chained dollars - seasonally adj
 GDP <- Quandl("AUSBS/5206002_EXPENDITURE_VOLUME_MEASURES_A2304402X") %>% 
